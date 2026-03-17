@@ -64,7 +64,7 @@
 
 ## 2-1. 화면 구성 한눈에 보기
 
-![Google AI Studio 메인 화면](04_image/google_ai_studio_ui.jpeg)
+![Google AI Studio 메인 화면](https://raw.githubusercontent.com/chatdaeri/buma-lecture-materials/master/04_image/google_ai_studio_ui.jpeg)
 
 Google AI Studio에 접속하면 크게 **3개 영역**으로 구분됨:
 
@@ -80,7 +80,7 @@ Google AI Studio에 접속하면 크게 **3개 영역**으로 구분됨:
 
 ### 🔧 Playground (플레이그라운드)
 
-![Google AI Studio Playground](04_image/google_ai_studio_playground.png)
+![Google AI Studio Playground](https://raw.githubusercontent.com/chatdaeri/buma-lecture-materials/master/04_image/google_ai_studio_playground.png)
 
 AI와 직접 대화하는 **기본 작업 공간**
 
@@ -367,7 +367,7 @@ JSON 형식으로 정리해줘:
 
 ## 7-1. 🎥 Live — 실시간 화면 공유
 
-![Google AI Studio Stream Realtime](04_image/google_ai_studio_stream_realtime.jpeg)
+![Google AI Studio Stream Realtime](https://raw.githubusercontent.com/chatdaeri/buma-lecture-materials/master/04_image/google_ai_studio_stream_realtime.jpeg)
 
 Google AI Studio의 **Stream Realtime** 기능을 사용하면 **PC 화면을 AI와 실시간 공유**하면서 도움을 받을 수 있음
 

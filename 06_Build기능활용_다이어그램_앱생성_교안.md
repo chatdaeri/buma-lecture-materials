@@ -65,7 +65,7 @@
 
 Google AI Studio에 접속 → 왼쪽 사이드바에서 **Build** 클릭
 
-![Google AI Studio 메인 화면](04_image/google_ai_studio_ui.jpeg)
+![Google AI Studio 메인 화면](https://raw.githubusercontent.com/chatdaeri/buma-lecture-materials/master/04_image/google_ai_studio_ui.jpeg)
 
 ### Build 모드 시작 화면 3가지 옵션
 
